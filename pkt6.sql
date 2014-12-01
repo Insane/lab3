@@ -1,0 +1,1 @@
+DROP VIEW Bednar_WymiarDostawca, Bednar_WymiarProdukt, Bednar_FaktyProdukty
